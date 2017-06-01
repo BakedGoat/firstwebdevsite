@@ -1,1 +1,9 @@
-theme.css
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+.navbar-brand {
+    font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+    font-size:15px;
+}
