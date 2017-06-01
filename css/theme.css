@@ -3,7 +3,41 @@ body {
     font-family: 'Merriweather', serif;
 }
 
+.navbar {
+    margin: 0;
+}
+
 .navbar-brand {
-    font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     font-size:15px;
+}
+
+.navbar-right {
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size:15px;
+}
+
+.intro-header {
+    background-position: center;
+    background-size: 100%;
+    height: 600px;
+    margin: 0;
+}
+
+.header-content {
+    width: 100%;
+    min-height: auto;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.header-content-inner {
+    padding-top: 100px;
+}
+
+hr {
+    border-color: red;
+    border-width: 3px;
+    max-width: 100px;
 }
