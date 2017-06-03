@@ -41,3 +41,12 @@ hr {
     border-width: 3px;
     max-width: 100px;
 }
+
+.mainbody {
+    text-align: center;
+    color: black;
+    padding-top: 60px;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
