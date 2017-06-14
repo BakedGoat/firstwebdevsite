@@ -65,3 +65,16 @@ footer {
 .fa-stack {
     color: black;
 }
+
+.col-sm-4 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.team-member {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
